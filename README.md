@@ -1,4 +1,4 @@
-# JudgementVisualizeSystem
+# Judgement Visualize System
 
 The system of judgement visualization constructed by pyqt package.  
 Please install the required packages first.   
